@@ -137,7 +137,7 @@ My high school self bought a book called  [Create Your First Web Page In a Weeke
 ### Technology
 I started out on HTML/CSS and graduated to PHP and C#. I traded in MySQL at some point for Postgres, SQLite, and Oracle (plus MongoDB for a spell… I don’t really talk about that anymore 😉). 
 
-As far as mobile goes, I started out on iOS, but I’ve done some Android work too. I’m not fluent in it, but I’m at least proficient. 
+As far as mobile goes, I started out on iOS, but I’ve done some Android work too. I’m not fluent in Android anymore, but I’m proficient and able to help out with code reviews with some context provided on the code. 
 
 ### Miscellany
 Here are a few mildly interesting facts about me and my life:
