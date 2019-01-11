@@ -29,7 +29,7 @@ Before we get started, here are a few assumptions I think we should start with, 
 * **Take a month off and not have to worry about anything.** No, seriously. If I can do this, I have done my job.
 
 ## What to expect from me
-I think the most succinct way of putting what to expect from is that _**I’m an imperfect human being and I expect you to be one too.**_
+I think the most succinct way of putting what to expect from me is that _**I’m an imperfect human being and I expect you to be one too.**_
 
 It’s important to note that I don’t want to become “the official decision maker.” Because of the nature of my personality, I find myself defaulting to that and try hard to course-correct when I realize I’m doing it. Part of that is because I like to have clear, discrete steps and when something gets in my way, I want to remove that hurdle as quickly as possible. A good way to put what I’m striving for instead: “I am **accountable** for the decisions the team make, even if I’m not the one making them most of the time.”
 
