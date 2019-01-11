@@ -80,7 +80,7 @@ If you need to schedule something with me, it’s best to use my calendar. It’
 ### Availability
 I start my day at 9am. I generally head out to eat dinner after 5pm. I’ll usually mute Slack notifications during my lunch and in the evenings, but I’ll typically check in throughout the evening to make sure things are running smoothly and there are no major questions or issues. I have Slack on my phone and will respond there as needed after-hours.
 
-**I don’t expect you to do this.** You are free to make sure yourself as available as you please after-hours and on weekends. You are free to not install Slack on your phone. You are free to ignore any message I send on the weekend until the following work day.
+**I don’t expect you to do this.** You are free to make yourself as available as you please after-hours and on weekends. You are free to not install Slack on your phone. You are free to ignore any message I send on the weekend until the following work day.
 
 **I will make myself available for you.** I will move things around. I will cancel meetings. My schedule isn’t 100% the same every day, every week, and every month. Don’t wait until our one-on-one to tell me about a problem you’re having. I’m here to serve you and I can’t do that effectively unless I know about a problem.
 
@@ -90,7 +90,7 @@ My attention is limited and I’ll do my best to ask questions and stay on top o
 I’m pretty easy to get in touch with, but I do have a preference for communication, in the following order:
 
 1. **Slack (in-channel)** — I like for the team to use this tool and solve engineering problems in channels as much as possible for others to see and gain context. I don’t like private messages for solving engineering problems unless they’re more sensitive.
-2. **Slack DMs** — Something on your mind? Do you see conflict and want to make sure I’m aware? Got an HR question or heard a rumor you need to talk about? Need something _now_? PM me. I get notifications and will respond as quick as I can to PMs.
+2. **Slack DMs** — Something on your mind? Do you see conflict and want to make sure I’m aware? Got an HR question or heard a rumor you need to talk about? Need something _now_? PM me. I get notifications on my computer and phone and will respond as quick as I can to PMs.
 3. **Slack calls** — Got something more complex to talk about? Let’s do a quick Slack call in-channel or in-PM. I prefer ad-hoc to scheduled for most things. My job is interrupt-driven and I’ll do my best to work on your schedule if you’re having a problem.
 4. **Google Hangouts** — If your problem can wait or, it requires multiple people, we should probably schedule it. Try to pick a time that works best for you. My calendar is accurate and I can usually move things around. I’ll tell you if I can’t.
 5. …
@@ -115,7 +115,7 @@ They should be measurable. They should be something you aspire towards and withi
 My job is to facilitate and encourage you to reach your OMGs. I will do my best to check in with you regularly on how you’re progressing; I want you to succeed. This isn’t me having an excuse to criticize you; it’s the company giving you a target to shoot for and a definition of success that you yourself can control.
 
 ## That’s all!
-For now, this is all you need to know to work with me. This is a living document and will definitely change at some point. 
+This is (hopefully) all you need to know to work with me. This is a living document and will definitely change at some point. 
 
 For now, here are some things about my personal life we can talk about if you’re interested.
 
