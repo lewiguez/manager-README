@@ -78,7 +78,7 @@ Let me know if I don't do well on any of these three dimensions.
 If you need to schedule something with me, it’s best to use my calendar. It’s 99% truth-y, with the exception of some of the daily discussions and impromptu meetings I get called into.
 
 ### Availability
-I start my day at 9am. I generally head out to eat dinner after 5pm. I’ll usually mute Slack notifications during my lunch and in the evenings, but I’ll typically check in throughout the evening to make sure things are running smoothly and there are no major questions or issues. I have Slack on my phone and will respond there as needed after-hours.
+I start my day at 8am right now, due to homeschooling my children. I generally head out to eat dinner after 5pm. I’ll usually mute Slack notifications during my lunch and in the evenings, but I’ll typically check in throughout the evening to make sure things are running smoothly and there are no major questions or issues. I have Slack on my phone and will respond there as needed after-hours.
 
 **I don’t expect you to do this.** You are free to make yourself as available as you please after-hours and on weekends. You are free to not install Slack on your phone. You are free to ignore any message I send on the weekend until the following work day.
 
@@ -106,13 +106,6 @@ I try to take notes and follow up on things after we speak, but I miss things. I
 I’ll usually start with bi-weekly one-on-ones and ratchet up as necessary. If I’ve missed one, I’ll try to reschedule. I don’t want to go a month without talking to you directly. If I fail to reschedule, put it on my calendar. Don’t hesitate. 
 
 Also, [make it awkward in our 1-1s.](https://medium.com/@mrabkin/the-art-of-the-awkward-1-1-f4e1dcbd1c5c) Please.
-
-## OMGs
-You might have heard about OMGs. You might not have. They’re basically OKRs. And, if you’ve never heard of that, they’re goals that you and I set together for your professional growth and aspirations for the year.
-
-They should be measurable. They should be something you aspire towards and within your realm to control as much as possible. They should challenge you and have some alignment with what O’Reilly is working towards.
-
-My job is to facilitate and encourage you to reach your OMGs. I will do my best to check in with you regularly on how you’re progressing; I want you to succeed. This isn’t me having an excuse to criticize you; it’s the company giving you a target to shoot for and a definition of success that you yourself can control.
 
 ## That’s all!
 This is (hopefully) all you need to know to work with me. This is a living document and will definitely change at some point. 
