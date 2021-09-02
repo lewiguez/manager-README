@@ -31,7 +31,7 @@ Before we get started, here are a few assumptions I think we should start with, 
 ## What to expect from me
 I think the most succinct way of putting what to expect from me is that _**I’m an imperfect human being and I expect you to be one too.**_
 
-It’s important to note that I don’t want to become “the official decision maker.” Because of the nature of my personality, I find myself defaulting to that and try hard to course-correct when I realize I’m doing it. Part of that is because I like to have clear, discrete steps and when something gets in my way, I want to remove that hurdle as quickly as possible. A good way to put what I’m striving for instead: “I am **accountable** for the decisions the team make, even if I’m not the one making them most of the time.”
+It’s important to note that I don’t want to become “the official decision maker.” Because of the nature of my personality, I find myself defaulting to that and try hard to course-correct when I realize I’m doing it. Part of that is because I like to have clear, discrete steps and when something gets in my way, I want to remove that hurdle as quickly as possible. A good way to put what I’m striving for instead: “I am **accountable** for the decisions the team makes, even if I’m not the one making them most of the time.”
 
 My past is also marked by a lot of engineering and Individual Contributor work. As such, I tend to fall back hard on old patterns and look at the world through this lens. I have strong opinions about how things should be done because I care deeply about our work. That being said, I will always do my best to respect your opinion too; I will try hard not to take for granted the mutual passion we each have for our jobs and what is produced. I expect you to do the same.
 
@@ -78,7 +78,7 @@ Let me know if I don't do well on any of these three dimensions.
 If you need to schedule something with me, it’s best to use my calendar. It’s 99% truth-y, with the exception of some of the daily discussions and impromptu meetings I get called into.
 
 ### Availability
-I start my day at 8am right now, due to homeschooling my children. I generally head out to eat dinner after 5pm. I’ll usually mute Slack notifications during my lunch and in the evenings, but I’ll typically check in throughout the evening to make sure things are running smoothly and there are no major questions or issues. I have Slack on my phone and will respond there as needed after-hours.
+I start my day around 8am right now. I generally head out to eat dinner some time after 5pm. I’ll usually mute Slack notifications during my lunch and in the evenings, but I’ll typically check in throughout the evening to make sure things are running smoothly and there are no major questions or issues. I have Slack on my phone and will respond there as needed after-hours.
 
 **I don’t expect you to do this.** You are free to make yourself as available as you please after-hours and on weekends. You are free to not install Slack on your phone. You are free to ignore any message I send on the weekend until the following work day.
 
@@ -90,8 +90,8 @@ My attention is limited and I’ll do my best to ask questions and stay on top o
 I’m pretty easy to get in touch with, but I do have a preference for communication, in the following order:
 
 1. **Slack (in-channel)** — I like for the team to use this tool and solve engineering problems in channels as much as possible for others to see and gain context. I don’t like private messages for solving engineering problems unless they’re more sensitive.
-2. **Slack DMs** — Something on your mind? Do you see conflict and want to make sure I’m aware? Got an HR question or heard a rumor you need to talk about? Need something _now_? PM me. I get notifications on my computer and phone and will respond as quick as I can to PMs.
-3. **Slack calls** — Got something more complex to talk about? Let’s do a quick Slack call in-channel or in-PM. I prefer ad-hoc to scheduled for most things. My job is interrupt-driven and I’ll do my best to work on your schedule if you’re having a problem.
+2. **Slack DMs** — Something on your mind? Do you see conflict and want to make sure I’m aware? Got an HR question or heard a rumor you need to talk about? Need something _now_? DM me. I get notifications on my computer and phone and will respond as quick as I can to DMs.
+3. **Slack calls** — Got something more complex to talk about? Let’s do a quick Slack call in-channel or in-DM. I prefer ad-hoc to scheduled for most things. My job is interrupt-driven and I’ll do my best to work on your schedule if you’re having a problem.
 4. **Google Hangouts** — If your problem can wait or, it requires multiple people, we should probably schedule it. Try to pick a time that works best for you. My calendar is accurate and I can usually move things around. I’ll tell you if I can’t.
 5. …
 6. **Twitter** — Have things really gone wrong? This should be a last resort, but I’m pretty accessible on Twitter (for now at least). Feel free to find me at `@beardforhire`.
@@ -113,13 +113,13 @@ This is (hopefully) all you need to know to work with me. This is a living docum
 For now, here are some things about my personal life we can talk about if you’re interested.
 
 ### My life and interests
-I have a wife and two elementary-age kids. The older one is named Isaac and the younger one is named Jude. You will hear about them occasionally and probably see them at some point “helping me code” (i.e pushing what buttons I tell them to push).
+I have a wife and two kids—one in middle school and one in elementary school. The older one is named Isaac and the younger one is named Jude. You will hear about them occasionally and probably see them at some point “helping me code” (i.e pushing what buttons I tell them to push).
 
-I live in Ohio. I love Ohio. You should move here because it’s awesome. If you ever want to get my attention, start talking about Ohio in a Slack channel. I have my Slack alerts set up for most major cities in Ohio.
+I live in Ohio. I love Ohio. You should move here because it’s awesome. If you ever want to get my attention, start talking about Ohio in a Slack channel. I have my Slack alerts set up for most major cities in Ohio. (Seriously. Try it.)
 
-I care deeply about tacos, pizza, coffee, and hamburgers. I like simple ingredients in my food, composed together to form complex, yet familiar, tastes. I think this also describes my life and what I pursue.
+I care deeply about tacos, pizza, coffee, and hamburgers. I like simple ingredients in my food, composed together to form complex, yet familiar, tastes. I think this also describes how I live my life and what I pursue.
 
-I don’t support two spaces after periods unless I’m writing a term paper. I’m probably not writing a term paper.
+I don’t support two spaces after periods unless I’m writing a term paper. And, I’m probably not writing a term paper.
 
 ### My developer story
 
